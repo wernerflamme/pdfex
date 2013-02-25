@@ -1,0 +1,7 @@
+base   pdfex
+author Werner Flamme
+email  w.flamme@web.de
+date   2013-02-25
+name   export as PDF
+desc   Export the current DokuWiki page as PDF file
+url    https://github.com/wernerflamme/pdfex
